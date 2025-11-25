@@ -1,19 +1,16 @@
-Business Context :
-•	If a person wants to go abroad for higher studies to get an admission in  best university according his skill set.
-•	It’s hard to find and going to the each consultancy, giving the admission fee for each consultancy as so much of cost.
-•	By reducing admission fee and finding the best university for the admission according to his GRE,TOEFL SCORES etc. 
-
-Business Problem :
-•	The main goal of the  business problem is " To find the Probability of getting admission in foreign university ".
-•	Student want to apply for the right university according to his skills, so that they can reduce the admission fee.
-
-Solution Developed:
-•	Firstly find the NULL VALUES , OUTLIERS in the dataset.
-•	Understood the data how it is related to each feature by using various visualization techniques like histogram, Boxplot, count plot etc.
-•	Convert the given data into vectors, to apply for the Machine learning algorithm.
-•	Compared the accuracy of each machine learning algorithm. 
-•	Among all the machine learning algorithms “Linear regression” giving the best accuracy.
-
-Improvements to the solution:
-•	By using hyper parameter tuning improved the accuracy to 80% to 83%.
-•	Which makes the model with low bias and high variance.
+Business Context
+•	Students planning to go abroad for higher studies often face difficulty finding the right universities that match their skill set.
+•	Visiting multiple consultancies and paying separate admission fees becomes time-consuming and expensive.
+•	A data-driven approach can help reduce admission costs by identifying the best universities based on GRE, TOEFL scores, and academic profile.
+Business Problem
+•	The main objective is to predict the probability of a student getting admission into a foreign university.
+•	This helps students apply to universities that align with their profile and avoid unnecessary admission or consultancy fees.
+Solution Developed
+•	Identified and handled null values and outliers in the dataset.
+•	Performed Exploratory Data Analysis (EDA) using histograms, boxplots, and count plots to understand the relationship between features.
+•	Converted the cleaned data into numerical vectors for machine learning model training.
+•	Trained and compared multiple machine learning algorithms.
+•	Linear Regression achieved the highest accuracy among all tested models.
+Improvements to the Solution
+•	Applied hyperparameter tuning, improving model accuracy from 80% to 83%.
+•	Optimization helped reduce model bias and improve overall performance.
