@@ -1,3 +1,5 @@
+Admission Prediction System (Machine Learning Project)
+
 Business Context : 
 •	Students planning to go abroad for higher studies often face difficulty finding the right universities that match their skill set.
 •	Visiting multiple consultancies and paying separate admission fees becomes time-consuming and expensive.
